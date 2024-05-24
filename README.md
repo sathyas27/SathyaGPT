@@ -7,7 +7,9 @@ SathyaGPT leverages the power of OpenAI's advanced technology to provide respons
 ## Features
 Personalized Responses: 
   - Generate text that reflects my unique style of communication and thought process.
+
 Interactive Conversations:
   - Engage in conversations with the model as if you were talking to me directly.
+
 Custom Interactions:
   - Use the model for specific tasks or inquiries that benefit from a personalized touch.
